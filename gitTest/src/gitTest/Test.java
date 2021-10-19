@@ -7,6 +7,7 @@ public class Test {
 		//Here is another test
 		//yet another one
 		System.out.println("Hello");
+		//another comment
 
 	}
 
